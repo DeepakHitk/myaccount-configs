@@ -1,3 +1,6 @@
 test:
   git:
     name: testGitRegistration1
+account:
+  ui:
+    frictionlessBrands: deepakTest
