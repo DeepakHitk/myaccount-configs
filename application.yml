@@ -3,6 +3,6 @@ test:
     name: testGitRegistration1
 account:
   ui:
-    frictionlessBrands: deepakTest1
+    frictionlessBrands: deepakTest3
 gips-client-properties:
-  ctaWelcome: test2
+  ctaWelcome: test3
