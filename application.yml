@@ -6,3 +6,4 @@ account:
     frictionlessBrands: deepakTest12
 gips-client-properties:
   ctaWelcome: test12
+  baseUrl: https://test.com/
