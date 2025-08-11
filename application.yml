@@ -1,8 +1,8 @@
 test:
   git:
-    name: testGitRegistration8
+    name: testGitRegistration9
 account:
   ui:
-    frictionlessBrands: deepakTest8
+    frictionlessBrands: deepakTest9
 gips-client-properties:
-  ctaWelcome: test8
+  ctaWelcome: test9
