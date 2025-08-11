@@ -7,3 +7,11 @@ account:
 gips-client-properties:
   ctaWelcome: test12
   baseUrl: https://test.com/
+
+spring:
+  security:
+    oauth2:
+      client:
+        registration:
+          gips:
+            client-id: 1234
