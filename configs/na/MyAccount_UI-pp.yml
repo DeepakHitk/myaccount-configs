@@ -1,6 +1,6 @@
 account:
   ui:
-    onstarShopifyEnabled: true
+    onstarShopifyEnabled: false
 proxy:
   mappings:
-    profile: https://test1.com
+    profile: https://test2.com
