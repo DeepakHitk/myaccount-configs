@@ -1,0 +1,6 @@
+account:
+  ui:
+    onstarShopifyEnabled: true
+proxy:
+  mappings:
+    profile: https://test1.com
