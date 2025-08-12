@@ -1,7 +1,7 @@
 account:
   ui:
     onstarShopifyEnabled: false
-    drpTabsBrands: deepak5
+    drpTabsBrands: deepak6
 proxy:
   mappings:
-    profile: https://test5.com
+    profile: https://test6.com
